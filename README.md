@@ -1,4 +1,4 @@
-### Finances App Firebase Backend
+### SVG Path Animator
 CLI tool to animate svg paths
 
 **[DEMO](https://nckdev.agency/lab/svg-lineart-animator/en)**

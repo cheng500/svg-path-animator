@@ -1,7 +1,7 @@
 ### SVG Path Animator
 CLI tool to animate svg paths
 
-**[DEMO](https://nckdev.agency/lab/svg-lineart-animator/en)**
+**[DEMO](https://nckdev.agency/lab/svg-path-animator/en)**
 
 ### Installation
 `npm install -g svg-lineart-animator`

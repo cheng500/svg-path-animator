@@ -1,0 +1,26 @@
+{
+  "name": "svg-lineart-animator",
+  "version": "2.0.5",
+  "description": "import svg linearts and export animated lines",
+  "main": "cli.js",
+  "bin": {
+    "svgline": "./cli.js"
+  },
+  "keywords": [
+    "cli",
+    "svg",
+    "animate",
+    "lineart",
+    "generate",
+    "path"
+  ],
+  "author": "Ngai Cheng Kuan",
+  "license": "ISC",
+  "dependencies": {
+    "arg": "^4.1.3",
+    "fs": "0.0.1-security",
+    "inquirer": "^7.3.3",
+    "svg-path-properties": "^1.0.5",
+    "svgson": "^4.1.0"
+  }
+}

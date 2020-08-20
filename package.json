@@ -1,8 +1,9 @@
 {
   "name": "svg-path-animator",
-  "version": "2.0.5",
+  "version": "2.0.6",
   "description": "import svg linearts and export animated lines",
   "main": "cli.js",
+  "repository": "https://github.com/cheng500/svg-path-animator",
   "bin": {
     "svgline": "./cli.js"
   },
